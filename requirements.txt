@@ -22,7 +22,6 @@ urllib3==1.26.11
 virtualenv==20.14.1
 virtualenv-clone==0.5.7
 Werkzeug==2.2.1
-
 APScheduler==3.6.3
 cachetools==4.2.2
 certifi==2022.6.15
