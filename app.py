@@ -1,6 +1,5 @@
 import telebot
 import os
-import requests
 from flask import Flask, request
 
 TOKEN = os.environ.get("API_KEY")
